@@ -1,0 +1,3 @@
+Polystyrene Recycler;27 Industrial St, Local Suburb;3232;www.polystyrene_recycler...;polystyrene
+Local Recycler;81 Local Rd, Local Suburb;1234;www.local_recycler...;eWaste, plastic, metal, paper, cardboard, ...
+IT Recycler;4 Tech Cres, Local Suburb;1122;www.IT_recycling_company...;computing hardware
